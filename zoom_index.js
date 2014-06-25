@@ -333,8 +333,8 @@ dictwords = ["beautyaddicts 0 6 64 6 6 64 12 6 64 13 6 64 18 6 64 20 6 64 23 6 6
 	"akilli 48 16 192 49 16 192",
 	"dudak 48 16 192 49 16 192"];
 skipwords = [];
-var STR_FORM_SEARCHFOR = "Search for:";
-var STR_FORM_SUBMIT_BUTTON = "Submit";
+var STR_FORM_SEARCHFOR = "";
+var STR_FORM_SUBMIT_BUTTON = "Ara";
 var STR_FORM_RESULTS_PER_PAGE = "Results per page:";
 var STR_FORM_CATEGORY = "Category:";
 var STR_FORM_CATEGORY_ALL = "All";
